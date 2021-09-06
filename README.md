@@ -25,7 +25,7 @@ In this file creation of sales.json file is done. This sales.json file is create
 ### 5. SALES.JSON FILE
 In this file daily sales updates would be available 
 
-### ABOUT AUTHOR
+### About Author
 Hi, I'm Sidharth S Unnithan, a sophomore undergrad student at Jyothi Engineering College,Thrissur,Kerala. A keen tech enthusiast and entrepreneur. Loves to explore something new in 
 the field of Computer Science daily.
 
